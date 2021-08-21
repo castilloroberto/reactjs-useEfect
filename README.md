@@ -1,5 +1,5 @@
 # Captura
-![producto final](public/sceenshot.png?raw=true "Title")
+![producto final](./public/screenshot.png?raw=true "Title")
 
 ## Getting Started with Create React App
 
